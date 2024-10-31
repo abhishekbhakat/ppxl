@@ -2,6 +2,8 @@
 
 Query Perplexity AI directly from your terminal with beautiful formatting.
 
+![PPXL Screenshot](Sample_Screenshot.png)
+
 ## Security & Compliance
 
 ### Legal Compliance
@@ -20,7 +22,8 @@ Each release is scanned with multiple antivirus engines. Scan results are availa
 
 ### Using Homebrew (macOS)
 ```bash
-brew install abhishekbhakat/tap/ppxl
+brew tap abhishekbhakat/tap
+brew install ppxl
 ```
 
 ### Manual Installation
@@ -60,6 +63,14 @@ ppxl --help
 - For feature requests, please use our [feature request template](.github/ISSUE_TEMPLATE/feature_request.md)
 - For bug reports, use our [bug report template](.github/ISSUE_TEMPLATE/bug_report.md)
 - For security concerns, see our [security policy](SECURITY.md)
+
+## Credits
+
+This project was developed with assistance from [Kodu.ai](https://kodu.ai), an AI pair programming assistant that helped with:
+- Project structure and organization
+- Code implementation and testing
+- Documentation and release management
+- Build system configuration
 
 ## License
 
