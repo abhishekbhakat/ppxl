@@ -13,6 +13,35 @@ This tool is provided for educational purposes only. Users must:
 - Not use for commercial data collection
 - Ensure compliance with local laws and regulations
 
+## Ethical Browser Automation Guidelines
+
+This tool strictly adheres to the following browser automation principles:
+
+**Rate Limiting**
+- Implements configurable delay between requests controlled by cloudflare
+- Respects server-side rate limiting
+- No parallel request processing
+
+**Robots.txt Compliance**
+- Follows website's robots.txt directives
+- Only accesses publicly available endpoints
+- No scraping of restricted content
+
+**Transparency**
+- User-Agent clearly identifies automated nature
+- No masking or spoofing of request origins
+- Uses user's local browser installation for authenticity
+
+**Request Handling**
+- Implements exponential backoff for failures
+- Proper error handling and graceful termination
+- No aggressive retry mechanisms
+
+**Proxy Usage & Security**
+- No bypass of security measures
+- Cloudflare challenges handled by user
+- No storage of sensitive information
+
 ## Security & Compliance
 
 ### Legal Compliance
