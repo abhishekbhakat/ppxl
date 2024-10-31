@@ -20,11 +20,11 @@ Each release is scanned with multiple antivirus engines. Scan results are availa
 
 ### Using Homebrew (macOS)
 ```bash
-brew install ppxl
+brew install abhishekbhakat/tap/ppxl
 ```
 
 ### Manual Installation
-1. Download the appropriate binary for your system from the [releases page](../../releases)
+1. Download the appropriate binary for your system from the [releases page](https://github.com/abhishekbhakat/ppxl/releases)
 2. Make it executable: `chmod +x ppxl`
 3. Move to your PATH: `sudo mv ppxl /usr/local/bin/`
 
