@@ -14,9 +14,9 @@ PPXL operates in full compliance with web service terms and conditions:
 - Uses standard web protocols and interfaces
 
 ### Virus Scan Results
-Each release is scanned with multiple antivirus engines. Scan results are available in the release notes.
-- [VirusTotal Report](link-to-report)
-- [Jotti's malware scan](link-to-scan)
+Each release is scanned with multiple antivirus engines:
+- [VirusTotal Report](https://www.virustotal.com/gui/file/bb595dd248f36b721d4f777ea0d8d55786aeae98006f6e1b718fe51b167febe9?nocache=1)
+- [Jotti's malware scan](https://virusscan.jotti.org/en-US/filescanjob/9cqqpkod1x)
 
 ## Installation
 
