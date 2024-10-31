@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Binaries
+ppxl
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Directories
+dist/
+build/
