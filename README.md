@@ -113,3 +113,7 @@ This project was developed with assistance from [Kodu.ai](https://kodu.ai), an A
 ## License
 
 Proprietary. All rights reserved.
+
+---
+
+**Note on Source Code Availability**: To maintain the integrity of browser automation practices and ensure ethical usage, the source code for this project is intentionally kept private. This decision helps prevent potential misuse, abuse of the services and ensures compliance with ethical automation guidelines.
