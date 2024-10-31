@@ -4,6 +4,15 @@ Access a powerful AI assistant directly from your terminal with beautiful format
 
 ![PPXL Screenshot](Sample_Screenshot.png)
 
+## Legal Disclaimer
+
+This tool is provided for educational purposes only. Users must:
+- Comply with target website's Terms of Service
+- Use reasonable request frequencies
+- Accept responsibility for usage
+- Not use for commercial data collection
+- Ensure compliance with local laws and regulations
+
 ## Security & Compliance
 
 ### Legal Compliance
