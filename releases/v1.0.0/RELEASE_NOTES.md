@@ -2,7 +2,7 @@
 
 ## What's New
 - Initial release of PPXL
-- Query Perplexity AI from your terminal
+- Access AI assistant from your terminal
 - Beautiful formatting with Rich
 - Table support for structured data
 - Debug mode for troubleshooting

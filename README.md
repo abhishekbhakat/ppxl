@@ -1,6 +1,6 @@
-# PPXL - Perplexity CLI
+# PPXL - Terminal AI Assistant
 
-Query Perplexity AI directly from your terminal with beautiful formatting.
+Access a powerful AI assistant directly from your terminal with beautiful formatting.
 
 ![PPXL Screenshot](Sample_Screenshot.png)
 
@@ -8,8 +8,8 @@ Query Perplexity AI directly from your terminal with beautiful formatting.
 
 ### Legal Compliance
 PPXL operates in full compliance with web service terms and conditions:
-- Respects Cloudflare security challenges
-- Shows security verification prompts to users when required
+- Respects security challenges
+- Shows verification prompts when required
 - Does not bypass or automate security measures
 - Uses standard web protocols and interfaces
 
